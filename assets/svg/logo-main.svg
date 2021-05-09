@@ -1,15 +1,16 @@
-<svg width="1050" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="1040" height="150" xmlns="http://www.w3.org/2000/svg">
  <g id="Layer_1">
   <title>Layer 1</title>
-  <text transform="matrix(1.06058 0 0 1.08881 -16.851 -29.0114)" fill="#ffffff" stroke-width="0" x="19.2655" y="125.92063" id="svg_2" font-size="80" font-family="'Montserrat Medium'" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" stroke="#000">Love Nails       Algonquin</text>
+  <text transform="matrix(1.06058 0 0 1.08881 -16.851 -29.0114)" fill="#ffffff" stroke-width="0" x="15.90398" y="123.90916" id="svg_2" font-size="80" font-family="'Montserrat Medium'" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" stroke="#000">Love Nails</text>
   <metadata id="svg_15">image/svg+xml</metadata>
   <g stroke="null" id="svg_17">
    <g stroke="null" id="svg_11" transform="matrix(1.08638 0 0 1.09626 98.6401 66.5299)">
-    <path stroke="null" d="m355.88108,-54.61682c-5.18485,0.0088 -10.9357,1.75811 -17.20358,6.13399c-15.4233,10.76766 -11.8297,38.0147 5.92778,58.01093c17.75751,19.99624 42.97206,32.32619 42.97206,32.32619c0,0 25.7701,-12.32995 43.52759,-32.32619c17.75748,-19.99623 21.35108,-47.24327 5.9278,-58.01093c-30.85724,-21.54277 -49.17736,20.57962 -49.17736,20.57962c0,0 -11.63365,-26.7483 -31.97429,-26.71361z" id="svg_14" stroke-width="0.26458px" fill="#ff8080"/>
-    <path stroke="null" d="m357.74977,-37.79213c-36.59013,-4.20824 -2.50702,52.78323 8.55262,52.38482c2.6727,-1.06908 -11.49258,-24.05426 -7.75081,-30.736c3.74177,-6.68174 12.2944,-18.70886 -0.80181,-21.64882z" id="svg_13" stroke-width="0.26458px" fill="#ffaaaa"/>
-    <path stroke="null" d="m421.87939,-3.11981c2.67269,4.27631 -1.20271,9.6217 -6.81537,15.23436c-5.61266,5.61266 -16.97162,10.15624 -16.97162,8.01809c0,-2.13816 14.16529,-29.13238 23.78699,-23.25245z" id="svg_12" stroke-width="0.26458px" fill="#ffaaaa"/>
+    <path stroke="null" d="m364.16555,-60.6879c-5.18485,0.0088 -10.9357,1.75811 -17.20358,6.13399c-15.4233,10.76766 -11.8297,38.0147 5.92778,58.01093c17.75751,19.99624 42.97206,32.32619 42.97206,32.32619c0,0 25.7701,-12.32995 43.52759,-32.32619c17.75748,-19.99623 21.35108,-47.24327 5.9278,-58.01093c-30.85724,-21.54277 -49.17736,20.57962 -49.17736,20.57962c0,0 -11.63365,-26.7483 -31.97429,-26.71361z" id="svg_14" stroke-width="0.26458px" fill="#ff8080"/>
+    <path stroke="null" d="m366.03424,-43.86321c-36.59013,-4.20824 -2.50702,52.78323 8.55262,52.38482c2.6727,-1.06908 -11.49258,-24.05426 -7.75081,-30.736c3.74177,-6.68174 12.2944,-18.70886 -0.80181,-21.64882z" id="svg_13" stroke-width="0.26458px" fill="#ffaaaa"/>
+    <path stroke="null" d="m430.16386,-9.19089c2.67269,4.27631 -1.20271,9.6217 -6.81537,15.23436c-5.61266,5.61266 -16.97162,10.15624 -16.97162,8.01809c0,-2.13816 14.16529,-29.13238 23.78699,-23.25245z" id="svg_12" stroke-width="0.26458px" fill="#ffaaaa"/>
    </g>
   </g>
+  <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="'Montserrat Medium'" font-size="80" id="svg_4" y="103.5" x="613" stroke-width="0" stroke="#000" fill="#ffffff">Algonquin</text>
  </g>
 
 </svg>
